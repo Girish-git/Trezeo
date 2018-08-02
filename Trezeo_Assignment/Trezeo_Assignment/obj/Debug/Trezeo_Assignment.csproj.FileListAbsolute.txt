@@ -1,0 +1,7 @@
+C:\Users\STORM\Documents\Trezeo\Trezeo_Assignment\Trezeo_Assignment\bin\Debug\Trezeo_Assignment.exe.config
+C:\Users\STORM\Documents\Trezeo\Trezeo_Assignment\Trezeo_Assignment\bin\Debug\Trezeo_Assignment.exe
+C:\Users\STORM\Documents\Trezeo\Trezeo_Assignment\Trezeo_Assignment\bin\Debug\Trezeo_Assignment.pdb
+C:\Users\STORM\Documents\Trezeo\Trezeo_Assignment\Trezeo_Assignment\obj\Debug\Trezeo_Assignment.csprojAssemblyReference.cache
+C:\Users\STORM\Documents\Trezeo\Trezeo_Assignment\Trezeo_Assignment\obj\Debug\Trezeo_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\STORM\Documents\Trezeo\Trezeo_Assignment\Trezeo_Assignment\obj\Debug\Trezeo_Assignment.exe
+C:\Users\STORM\Documents\Trezeo\Trezeo_Assignment\Trezeo_Assignment\obj\Debug\Trezeo_Assignment.pdb
